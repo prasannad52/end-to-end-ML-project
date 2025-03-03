@@ -45,28 +45,15 @@ This is an **end-to-end Machine Learning project** that predicts a student's mat
    http://127.0.0.1:5000/
    ```
 
-## 📂 Project Structure
-```
-├── src
-│   ├── components
-│   ├── data
-│   ├── model
-│   ├── utils.py
-├── templates
-│   ├── index.html
-├── static
-│   ├── styles.css
-├── app.py
-├── requirements.txt
-├── README.md
-```
-
 ## 📊 Model Performance
 - Achieved **high accuracy** on test data.
 - Evaluated using metrics like **R² score, MSE, MAE**.
 
 ## 🎥 Project Inspiration
 This project was built by following a **YouTube tutorial** to enhance my understanding of end-to-end ML project development.
+
+## Inspiration: 
+This project is built by following Krish Naik’s YouTube tutorial on end-to-end Machine Learning deployment. I have made modifications and improvements to enhance my learning.
 
 ## ✨ Author
 **Prasanna Dindi**  
